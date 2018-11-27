@@ -1,0 +1,404 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+body{
+    background-color: #fff9db;
+}
+header{
+    margin-top: 0px;
+    margin-left:0px;
+    margin-right: 0px;
+    display:flex;
+    height:77px;
+    background-color:#fab84c;
+}
+header img{
+    margin-left: 46px;
+    margin-right: 46px;
+}
+.frontbar{
+    margin-top: 26.5px;
+    margin-left: 900px;
+}
+.frontbar a{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 23px;
+    padding-left: 23px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    text-decoration: none;
+}
+.add{
+    background-color:#f4a32f;
+}
+.aboutme{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.aboutme .mypic img{
+    margin-top: 150px;
+}
+.aboutme .myinformation{
+    margin-top: 150px;
+    margin-left: 188px;
+    font-size: 32px;
+    font-family: Noto Sans TC, sans-serif;
+}
+.aboutme .myinformation .name{
+    text-align: center;
+}
+.aboutme .myinformation .phone{
+    display:flex;
+    margin-top: -15px;
+}
+.aboutme .myinformation .phone img{
+    margin-top: 16px;
+}
+.aboutme .myinformation .phone p{
+    font-size: 18px;
+    margin-left: 25px;
+}
+.aboutme .myinformation .email{
+    display: flex;
+    margin-top: -15px;
+}
+.aboutme .myinformation .email p{
+    font-size: 18px;
+    margin-left: 25px;
+}
+.aboutme .myinformation .email img{
+    margin-top: 16px;
+}
+.aboutme .myinformation .location p{
+    font-size: 18px;
+    margin-top: -5px;
+}
+.aboutme .myinformation .social{
+    margin-top: -5px;
+}
+.aboutme .myinformation .social img{
+    margin-right: 15px;
+}
+.profile{
+    margin-top: 100px;
+    margin-left: 46px;
+    margin-right: 46px;
+    margin-bottom: 50px;
+}
+.profile h1{
+    font-size: 32px;
+    font-family: Noto Sans TC, sans-serif;
+    color: #c78623;
+}
+.profile .cut1 hr{
+    margin-top: -25px;
+}
+.profile p{
+    margin-top: 25px;
+    line-height: 30px;
+    font-family: Noto Sans TC, sans-serif;
+    font-size: 18px;
+}
+.experience{
+    margin-top: 100px;
+    margin-left: 46px;
+    margin-right: 46px;
+    margin-bottom: 50px;
+    font-family: Noto Sans TC, sans-serif;
+}
+.experience h1{
+    font-size: 32px;
+    color: #c78623;
+}
+.experience .cut2 hr{
+    margin-top: -25px;
+}
+.experience .time{
+    display:flex;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+.experience .time .past .past1{
+    display:flex;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+.experience .time .past .past1 .pasttime1 h2{
+    padding-right: 15px;
+    border-right: solid black 1px;
+    font-size: 24px;
+}
+.experience .time .past .past1 .pasttime1-1 h2{
+    padding-left: 15px;
+    font-size: 24px;
+}
+.experience .time .past p{
+    margin-top: -5px;
+    margin-left: 15px;
+    font-size: 18px;
+}
+.experience .time .past .past2{
+    display:flex;
+    margin-top: 45px;
+    margin-left: 15px;
+}
+.experience .time .past .past2 .pasttime2 h2{
+    padding-right: 15px;
+    border-right: solid black 1px;
+    font-size: 24px;
+}
+.experience .time .past .past2 .pasttime2-2 h2{
+    padding-left: 15px;
+    font-size: 24px;
+}
+.skills{
+    margin-top: 100px;
+    margin-left: 46px;
+    margin-right: 46px;
+    margin-bottom: 50px;
+    font-family: Noto Sans TC, sans-serif;
+}
+.skills h1{
+    font-size: 32px;
+    color: #c78623;
+}
+.skills li{
+    font-size: 24px;
+}
+.skills .cut3 hr{
+    margin-top: -25px;
+}
+.skills .part1{
+    display:flex;
+    margin-top: 50px;
+}
+.skills .part1 .part1-1{
+    margin-left: 294px;
+}
+.skills .part1 .part1-2{
+    margin-left: 600px;
+}
+.skills .part1 .part1-1 .point1-1{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part1 .part1-2 .point1-2{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part1 .part1-1 .point1-1 img{
+    margin-right: 10px;
+}
+.skills .part1 .part1-2 .point1-2 img{
+    margin-right: 10px;
+}
+.skills .part2{
+    display:flex;
+    margin-top: 75px;
+}
+.skills .part2 .part2-1{
+    margin-left: 294px;
+}
+.skills .part2 .part2-2{
+    margin-left: 600px;
+}
+.skills .part2 .part2-1 .point2-1{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part2 .part2-2 .point2-2{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part2 .part2-1 .point2-1 img{
+    margin-right: 10px;
+}
+.skills .part2 .part2-2 .point2-2 img{
+    margin-right: 10px;
+}
+.skills .part3{
+    display:flex;
+    margin-top: 75px;
+}
+.skills .part3 .part3-1{
+    margin-left: 294px;
+}
+.skills .part3 .part3-2{
+    margin-left: 600px;
+}
+.skills .part3 .part3-1 .point3-1{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part3 .part3-2 .point3-2{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part3 .part3-1 .point3-1 img{
+    margin-right: 10px;
+}
+.skills .part3 .part3-2 .point3-2 img{
+    margin-right: 10px;
+}
+.skills .part4{
+    display:flex;
+    margin-top: 75px;
+}
+.skills .part4 .part4-1{
+    margin-left: 294px;
+}
+.skills .part4 .part4-2{
+    margin-left: 600px;
+}
+.skills .part4 .part4-1 .point4-1{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part4 .part4-2 .point4-2{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part4 .part4-1 .point4-1 img{
+    margin-right: 10px;
+}
+.skills .part4 .part4-2 .point4-2 img{
+    margin-right: 10px;
+}
+.skills .part5{
+    display:flex;
+    margin-top: 75px;
+}
+.skills .part5 .part5-1{
+    margin-left: 294px;
+}
+.skills .part5 .part5-2{
+    margin-left: 600px;
+}
+.skills .part5 .part5-1 .point5-1{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part5 .part5-2 .point5-2{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part5 .part5-1 .point5-1 img{
+    margin-right: 10px;
+}
+.skills .part5 .part5-2 .point5-2 img{
+    margin-right: 10px;
+}
+.skills .part6{
+    margin-top: 75px;
+    margin-left: 294px;
+}
+.skills .part6 .point6{
+    display:flex;
+    margin-top: 15px;
+}
+.skills .part6 .point6 img{
+    margin-right: 10px;
+}
+.works{
+    margin-top: 100px;
+    margin-left: 46px;
+    margin-right: 46px;
+    margin-bottom: 100px;
+    font-family: Noto Sans TC, sans-serif;
+}
+.works h1{
+    font-size: 32px;
+    color: #c78623;
+}
+.works .cut4 hr{
+    margin-top: -25px;
+}
+.works .IOT{
+    margin-left: 188px;
+    font-size: 24px;
+}
+.works .IOT img{
+    margin-top: -25px;
+}
+.works .game{
+    margin-left: 988px;
+    font-size: 24px;
+}
+.works .game img{
+    margin-top: -25px;
+}
+.works .art{
+    margin-left: 188px;
+    font-size: 24px;
+}
+.works .art img{
+    margin-top: -25px;
+}
+footer{
+    font-family: Noto Sans TC, sans-serif;
+}
+.same{
+    display:flex;
+    height:117px;
+    background-color:#fab84c;
+}
+.same img{
+    margin-top: -10px;
+    margin-left: 46px;
+    margin-right: 46px;
+}
+.same .bottombar{
+    margin-top: 16.5px;
+    margin-left: 50px;
+}
+.same .bottombar a{
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 16.5px;
+    padding-bottom: 16.5px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    text-decoration: none;
+}
+.same .contact{
+    font-size: 14px;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.same .contact .contactme{
+    margin-top: -10px;
+    margin-left: 46px;
+}
+.same .contact .contactphone{
+    display:flex;
+}
+.same .contact .contactphone p{
+    margin-top: -14px;
+    margin-left: -44px;
+}
+.same .contact .contactemail{
+    display:flex;
+}
+.same .contact .contactemail p{
+    margin-top: -14px;
+    margin-left: -41px;
+}
+.same .contact .contactsocial{
+    margin-top: -10px;
+    margin-left: 92px;
+}
+.same .contact .contactsocial img{
+    margin-left: -45px;
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+}
+.copyright img{
+    margin-top: -20px;
+}
+.copyright p{
+    margin-top: -25px;
+}

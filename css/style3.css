@@ -1,0 +1,119 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+body{
+    background-color: #fff9db;
+}
+header{
+    margin-top: 0px;
+    margin-left:0px;
+    margin-right: 0px;
+    display:flex;
+    height:77px;
+    background-color:#fab84c;
+}
+header img{
+    margin-left: 46px;
+    margin-right: 46px;
+}
+.frontbar{
+    margin-top: 26.5px;
+    margin-left: 900px;
+}
+.frontbar a{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 23px;
+    padding-left: 23px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    text-decoration: none;
+}
+.add{
+    background-color:#f4a32f;
+}
+.game{
+    display:flex;
+    font-family: Noto Sans TC, sans-serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 346px;
+}
+.game .tx{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.game .tx h1{
+    font-size: 32px;
+    color: #c78623;
+}
+.game .tx p{
+    font-size: 18px;
+    line-height: 30px;
+}
+footer{
+    font-family: Noto Sans TC, sans-serif;
+}
+.same{
+    display:flex;
+    height:117px;
+    background-color:#fab84c;
+}
+.same img{
+    margin-top: -10px;
+    margin-left: 46px;
+    margin-right: 46px;
+}
+.same .bottombar{
+    margin-top: 16.5px;
+    margin-left: 50px;
+}
+.same .bottombar a{
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 16.5px;
+    padding-bottom: 16.5px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    text-decoration: none;
+}
+.same .contact{
+    font-size: 14px;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.same .contact .contactme{
+    margin-top: -10px;
+    margin-left: 46px;
+}
+.same .contact .contactphone{
+    display:flex;
+}
+.same .contact .contactphone p{
+    margin-top: -14px;
+    margin-left: -44px;
+}
+.same .contact .contactemail{
+    display:flex;
+}
+.same .contact .contactemail p{
+    margin-top: -14px;
+    margin-left: -41px;
+}
+.same .contact .contactsocial{
+    margin-top: -10px;
+    margin-left: 92px;
+}
+.same .contact .contactsocial img{
+    margin-left: -45px;
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+}
+.copyright img{
+    margin-top: -20px;
+}
+.copyright p{
+    margin-top: -25px;
+}
